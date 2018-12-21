@@ -1,2 +1,2 @@
 # Python code to add two numbers
-12+15
+print('12+15=',12+15)
